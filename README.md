@@ -146,10 +146,8 @@ const vignesh = {
 
 <div align="center">
   
-<!-- Streak Stats - Using alternate service -->
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=Vixcy300&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=f093fb&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=667eea&sideLabels=764ba2&dates=8b949e" alt="GitHub Streak"/>
-</a>
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Vixcy300&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=f093fb&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=667eea&sideLabels=764ba2&dates=8b949e" alt="GitHub Streak"/>
 
 </div>
 
@@ -169,7 +167,7 @@ const vignesh = {
 
 <div align="center">
   
-<img src="https://github-profile-trophy.vercel.app/?username=Vixcy300&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies"/>
+<img src="https://github-trophies.vercel.app/?username=Vixcy300&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies"/>
 
 </div>
 
@@ -252,11 +250,7 @@ const vignesh = {
 
 ### 🐍 Watch my contributions get eaten!
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vixcy300/Vixcy300/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vixcy300/Vixcy300/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
