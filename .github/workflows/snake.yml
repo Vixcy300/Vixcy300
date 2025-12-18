@@ -4,9 +4,9 @@ on:
   schedule:
     - cron: "0 0 * * *" # Runs daily at midnight
   workflow_dispatch: # Allows manual trigger
-  push:
-    branches:
-      - main
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -21,6 +21,8 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
