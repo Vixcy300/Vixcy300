@@ -10,11 +10,11 @@
 <p>
 <a href="mailto:vigneshigt@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/vignesh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/vignesh"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Vixcy300"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 <!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=vignesh&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Vixcy300&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
@@ -139,16 +139,16 @@ const vignesh = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vignesh&show_icons=true&count_private=true&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&bg_color=0d1117" alt="Vignesh's GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vignesh&layout=compact&hide_border=true&title_color=6366f1&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Vixcy300&show_icons=true&count_private=true&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&bg_color=0d1117" alt="Vignesh's GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vixcy300&layout=compact&hide_border=true&title_color=6366f1&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=vignesh&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="Vignesh's Streak Stats"/>
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vixcy300&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="Vignesh's Streak Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vignesh&custom_title=Vignesh's%20Contribution%20Graph&bg_color=0d1117&color=6366f1&line=6366f1&point=6366f1&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vixcy300&custom_title=Vignesh's%20Contribution%20Graph&bg_color=0d1117&color=6366f1&line=6366f1&point=6366f1&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ---
@@ -156,7 +156,7 @@ const vignesh = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vignesh&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Vixcy300&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -217,5 +217,5 @@ If your answer is <b>10</b>, here's my number: <code>+91 9600700120</code>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 <div align="center">
-  <b>⭐ From <a href="https://github.com/vignesh">Vignesh</a> with 💜</b>
+  <b>⭐ From <a href="https://github.com/Vixcy300">Vignesh</a> with 💜</b>
 </div>
