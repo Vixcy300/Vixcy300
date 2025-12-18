@@ -1,26 +1,38 @@
 <div align="center">
   
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vignesh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20|%20AI/ML%20Enthusiast%20|%20UI/UX%20Designer&descAlignY=52&descSize=18"/>
+<!-- Animated Header with Sparkles -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Vignesh&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20|%20AI/ML%20Enthusiast%20|%20UI/UX%20Designer&descAlignY=55&descSize=16"/>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=Building+Premium+Digital+Experiences+%F0%9F%9A%80;Crafting+Code+with+Passion+%E2%9C%A8" alt="Typing SVG" /></a>
+<!-- Matrix Rain Effect Banner -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<!-- Social Badges -->
+<!-- Typing Animation - Multiple Lines -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=120&lines=%F0%9F%9A%80+Building+Premium+Digital+Experiences;%E2%9C%A8+Crafting+Code+with+Passion+%26+Precision;%F0%9F%8E%AF+Turning+Ideas+into+Reality" alt="Typing SVG" /></a>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<!-- Animated Social Badges -->
 <p>
-<a href="mailto:vigneshigt@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/vignesh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/Vixcy300"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:vigneshigt@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/vignesh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Vixcy300"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://instagram.com/vignesh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://twitter.com/vignesh"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=Vixcy300&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
+<!-- Animated Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=Vixcy300&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/Vixcy300?label=Followers&style=for-the-badge&color=764ba2" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/Vixcy300?label=Stars&style=for-the-badge&color=f093fb" alt="Stars"/>
 
 </div>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🧑‍💻 About Me
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ```typescript
 const vignesh = {
@@ -28,194 +40,240 @@ const vignesh = {
     location: "Chennai, Tamil Nadu, India 🇮🇳",
     education: "B.Tech @ SIMATS Engineering College",
     languages: ["English", "Tamil"],
-    currentFocus: ["Full-Stack Development", "AI/ML", "Premium UI/UX"],
-    funFact: "I build production-ready apps on zero-budget stacks! 💸"
+    currentFocus: [
+        "Full-Stack Development",
+        "AI/ML Integration", 
+        "Premium UI/UX Design"
+    ],
+    philosophy: "60fps animations & pixel-perfect design",
+    funFact: "I build production apps on $0 budget! 💸"
 };
 ```
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-- 🔭 Currently working on **Ultra-Modern Developer Portfolio**
-- 🌱 Learning **Three.js, Advanced GSAP, AI Agents**
-- 💬 Ask me about **Next.js, React, AI/ML Integration**
-- ⚡ Philosophy: *Premium minimal design with 60fps animations*
-- 🎯 Goal: Building stunning, production-ready applications
-
----
-
-## 🛠️ Tech Arsenal
-
-<details open>
-<summary><b>🎨 Frontend Development</b></summary>
 <br/>
+
+- 🔭 Currently building **Ultra-Modern Developer Portfolio**
+- 🌱 Deep diving into **Three.js, GSAP Mastery, AI Agents**
+- 👯 Looking to collaborate on **Open Source & Hackathons**
+- 💬 Ask me about **Next.js, React, Flutter, AI/ML**
+- ⚡ Fun fact: **I turn coffee into code at 3 AM** ☕
+
+<br clear="both"/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Arsenal
+
+<div align="center">
+
+### 🎨 Frontend Magic
 <p>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/>
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/>
-<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
-<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,flutter,tailwind,html,css&theme=dark" />
 </p>
-</details>
 
-<details open>
-<summary><b>⚙️ Backend Development</b></summary>
-<br/>
+### ⚙️ Backend Power
 <p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,prisma,firebase,supabase,graphql&theme=dark" />
 </p>
-</details>
 
-<details open>
-<summary><b>🤖 AI & Machine Learning</b></summary>
-<br/>
+### 🤖 AI & Machine Learning
 <p>
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark" />
+<img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
-</details>
 
-<details>
-<summary><b>🔧 Languages & Tools</b></summary>
-<br/>
+### 🛠️ Tools & Platforms
 <p>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,docker,figma,postman&theme=dark" />
 </p>
-</details>
 
-<details>
-<summary><b>☁️ Cloud & DevOps</b></summary>
-<br/>
+### 💻 Programming Languages
 <p>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,c,cs,dart&theme=dark" />
 </p>
-</details>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🎨 **Developer Portfolio** | Ultra-modern portfolio with 3D elements & scroll animations | Next.js, GSAP, Three.js, Tailwind |
-| 💰 **AI Finance App** | Cross-platform finance tracker with AI assistant | Flutter, Gemini AI, Firebase |
-| ♻️ **EcoSort AI** | Computer vision waste classification system | Python, ResNet-50, TensorFlow |
-| 🔐 **E2E Encrypted Chat** | Secure messaging with file transfer | Next.js, WebSocket, AES-GCM |
-| 🎓 **Student Portal** | Role-based academic management system | Next.js, Express, MongoDB |
-| 🏥 **Healthcare Portal** | Patient-doctor management platform | Full-stack with optimized UX |
-| 🗺️ **Recycling Map** | Crowdsourced recycling locations | React, Firebase, Mapbox |
-| 📊 **BMI Analyzer** | Lifestyle analysis with AI chatbot | Flask, Pandas, Gemini AI |
 
 </div>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Vixcy300&show_icons=true&count_private=true&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&bg_color=0d1117" alt="Vignesh's GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vixcy300&layout=compact&hide_border=true&title_color=6366f1&text_color=c9d1d9&bg_color=0d1117" />
-</div>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Featured Projects
 
 <div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vixcy300&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="Vignesh's Streak Stats"/>
+
+<a href="https://github.com/Vixcy300/MatriXort-AI-Deep-Learning">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vixcy300&repo=MatriXort-AI-Deep-Learning&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2" />
+</a>
+<a href="https://github.com/Vixcy300/protothon-hackathon2025">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vixcy300&repo=protothon-hackathon2025&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2" />
+</a>
+
 </div>
+
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vixcy300&custom_title=Vignesh's%20Contribution%20Graph&bg_color=0d1117&color=6366f1&line=6366f1&point=6366f1&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
+
+| 🎯 Project | 📝 Description | 🛠️ Tech Stack |
+|:----------:|:--------------|:--------------|
+| 🎨 **Developer Portfolio** | Ultra-modern portfolio with 3D elements & scroll animations | `Next.js` `GSAP` `Three.js` `Tailwind` |
+| 💰 **AI Finance App** | Cross-platform finance tracker with AI assistant | `Flutter` `Gemini AI` `Firebase` |
+| ♻️ **EcoSort AI** | Computer vision waste classification system | `Python` `ResNet-50` `TensorFlow` |
+| 🔐 **E2E Encrypted Chat** | Secure messaging with file transfer | `Next.js` `WebSocket` `AES-GCM` |
+| 🎓 **Student Portal** | Role-based academic management system | `Next.js` `Express` `MongoDB` |
+| 🏥 **Healthcare Portal** | Patient-doctor management platform | `Full-stack` `PostgreSQL` |
+| 🗺️ **Recycling Map** | Crowdsourced recycling locations | `React` `Firebase` `Mapbox` |
+| 📊 **BMI Analyzer** | Lifestyle analysis with AI chatbot | `Flask` `Pandas` `Gemini AI` |
+
 </div>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Analytics
+
+<div align="center">
+  
+<!-- GitHub Stats Cards -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vixcy300&show_icons=true&count_private=true&hide_border=true&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&bg_color=0d1117&ring_color=667eea" alt="GitHub Stats" /> 
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vixcy300&layout=compact&hide_border=true&title_color=667eea&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+
+</div>
+
+<br/>
+
+<div align="center">
+  
+<!-- Streak Stats - Using alternate service -->
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=Vixcy300&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=f093fb&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=667eea&sideLabels=764ba2&dates=8b949e" alt="GitHub Streak"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vixcy300&custom_title=Vignesh's%20Contribution%20Graph&bg_color=0d1117&color=667eea&line=764ba2&point=f093fb&area_color=667eea&title_color=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vixcy300&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+  
+<img src="https://github-profile-trophy.vercel.app/?username=Vixcy300&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies"/>
+
 </div>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎯 What I'm Currently Up To
+## 🎯 Current Focus
+
+<div align="center">
 
 ```
-📚 Learning    → Three.js, Advanced GSAP, AI Agent Development
-🔨 Building    → Ultra-Modern Portfolio with 60fps animations
-🎯 Exploring   → LLM Fine-tuning, Financial Forecasting Models
-🤝 Open to     → Collaborations, Hackathons, Freelance Projects
+╔══════════════════════════════════════════════════════════════════╗
+║  📚 LEARNING    →  Three.js • Advanced GSAP • AI Agent Dev       ║
+║  🔨 BUILDING    →  Ultra-Modern Portfolio with 60fps animations  ║
+║  🎯 EXPLORING   →  LLM Fine-tuning • Financial Forecasting       ║
+║  🤝 OPEN TO     →  Collaborations • Hackathons • Freelance       ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
----
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📫 Let's Connect!
 
 <div align="center">
 
-### 📧 Email: vigneshigt@gmail.com
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+
+### 💌 I love connecting with fellow developers!
+
+<br/>
+
+### 📧 Email: **vigneshigt@gmail.com**
 
 <details>
-<summary>📱 <b>Click to reveal phone number</b> (solve the puzzle!)</summary>
+<summary>📱 <b>🔐 Click to reveal phone number</b> (solve the puzzle!)</summary>
 <br/>
-<blockquote>
-🧩 <b>Quick Math Challenge:</b> What is 5 + 5?
-<br/><br/>
-If your answer is <b>10</b>, here's my number: <code>+91 9600700120</code>
-</blockquote>
+<table>
+<tr>
+<td>
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/>
+</td>
+<td>
+<h3>🧩 Quick Math Challenge</h3>
+<p>What is <b>5 + 5</b>?</p>
+<br/>
+<p>If your answer is <b>10</b>, here's my number:</p>
+<code>📞 +91 9600700120</code>
+</td>
+</tr>
+</table>
 </details>
 
 <br/>
 
 <a href="mailto:vigneshigt@gmail.com">
-  <img src="https://img.shields.io/badge/Let's%20Work%20Together-6366f1?style=for-the-badge&logo=minutemailer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/💼_Hire_Me-667eea?style=for-the-badge"/>
+</a>
+<a href="mailto:vigneshigt@gmail.com">
+  <img src="https://img.shields.io/badge/🤝_Collaborate-764ba2?style=for-the-badge"/>
+</a>
+<a href="https://github.com/Vixcy300">
+  <img src="https://img.shields.io/badge/⭐_Follow_Me-f093fb?style=for-the-badge"/>
 </a>
 
 </div>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
-### 💡 *"Clean code, premium design, smooth animations - that's the recipe for digital excellence."*
+### 💡 Dev Quote of the Day
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 
 <br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+### 🐍 Watch my contributions get eaten!
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vixcy300/Vixcy300/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vixcy300/Vixcy300/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=150&section=footer"/>
 
 <div align="center">
-  <b>⭐ From <a href="https://github.com/Vixcy300">Vignesh</a> with 💜</b>
+  
+### ⭐ If you like my work, consider giving a star!
+
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70">
+
+**Thanks for visiting!** 😄
+
+<img src="https://img.shields.io/badge/Made%20with-❤️-ff69b4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Powered%20by-Coffee%20☕-brown?style=for-the-badge"/>
+
+<b>⭐ From <a href="https://github.com/Vixcy300">Vignesh</a> with 💜</b>
+
 </div>
