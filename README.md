@@ -250,7 +250,11 @@ const vignesh = {
 
 ### 🐍 Watch my contributions get eaten!
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vixcy300/Vixcy300/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vixcy300/Vixcy300/output/github-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Vixcy300/Vixcy300/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
