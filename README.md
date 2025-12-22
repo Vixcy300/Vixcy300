@@ -46,7 +46,7 @@ const vignesh = {
         "Premium UI/UX Design"
     ],
     philosophy: "60fps animations & pixel-perfect design",
-    funFact: "I build production apps on $0 budget! 💸"
+    funFact: "I build production apps on ₹0 budget! 💸"
 };
 ```
 
