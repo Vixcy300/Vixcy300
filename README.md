@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- Animated Header with Sparkles -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Vignesh&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20|%20AI/ML%20Enthusiast%20|%20UI/UX%20Designer&descAlignY=55&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=VIGNESH&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20|%20AI/ML%20Enthusiast%20|%20UI/UX%20Designer&descAlignY=55&descSize=16"/>
 
 <!-- Matrix Rain Effect Banner -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
