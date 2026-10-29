@@ -41,9 +41,9 @@ const vignesh = {
     education: "B.Tech @ SIMATS Engineering College",
     languages: ["English", "Tamil"],
     currentFocus: [
-        "Full-Stack Development",
-        "AI/ML Integration", 
-        "Premium UI/UX Design"
+        "MERN Stack Development",
+        "Next.js 16+ & React 19",
+        "Cloud Deployment on Azure"
     ],
     philosophy: "60fps animations & pixel-perfect design",
     funFact: "I build production apps on ₹0 budget! 💸"
@@ -53,9 +53,9 @@ const vignesh = {
 <br/>
 
 - 🔭 Currently building **Ultra-Modern Developer Portfolio**
-- 🌱 Deep diving into **Three.js, GSAP Mastery, AI Agents**
+- 🌱 Deep diving into **Next.js 16, React 19, Azure Cloud**
 - 👯 Looking to collaborate on **Open Source & Hackathons**
-- 💬 Ask me about **Next.js, React, Flutter, AI/ML**
+- 💬 Ask me about **Next.js, React, Node.js, MongoDB**
 - ⚡ Fun fact: **I turn coffee into code at 3 AM** ☕
 
 <br clear="both"/>
@@ -67,31 +67,24 @@ const vignesh = {
 
 <div align="center">
 
-### 🎨 Frontend Magic
+### 🎨 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,flutter,tailwind,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nextjs,react,tailwind&theme=dark" />
+</p>
+<p>
+<img src="https://img.shields.io/badge/Next.js-16%2B-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
-### ⚙️ Backend Power
+### ⚙️ Backend & Database
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,prisma,firebase,supabase,graphql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb&theme=dark" />
 </p>
 
-### 🤖 AI & Machine Learning
+### 🛠️ Tools & Cloud
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark" />
-<img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-</p>
-
-### 🛠️ Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,docker,figma,postman&theme=dark" />
-</p>
-
-### 💻 Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,c,cs,dart&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,azure&theme=dark" />
 </p>
 
 </div>
@@ -180,9 +173,9 @@ const vignesh = {
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  📚 LEARNING    →  Three.js • Advanced GSAP • AI Agent Dev       ║
+║  📚 LEARNING    →  Next.js 16 • React 19 • Azure Cloud           ║
 ║  🔨 BUILDING    →  Ultra-Modern Portfolio with 60fps animations  ║
-║  🎯 EXPLORING   →  LLM Fine-tuning • Financial Forecasting       ║
+║  🎯 EXPLORING   →  MERN Architecture • Scalable Deployments      ║
 ║  🤝 OPEN TO     →  Collaborations • Hackathons • Freelance       ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
