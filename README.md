@@ -1,42 +1,36 @@
 <div align="center">
 
-<!-- Banner -->
-<img width="100%" alt="Vignesh S banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:6d28d9&height=220&section=header&text=Vignesh%20S&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20MERN%20%C2%B7%20Cloud&descAlignY=60&descSize=18&descColor=c7d2fe" />
+<!-- Thin accent line -->
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:8b5cf6,100:d946ef&height=4&section=header" />
 
-<!-- Rotating tagline (single line, cycles through each message) -->
-<a href="https://github.com/Vixcy300">
-  <img alt="Typing tagline" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=818CF8&center=true&vCenter=true&width=700&height=45&lines=Building+fast%2C+scalable+web+applications;Next.js+%C2%B7+React+19+%C2%B7+Node.js+%C2%B7+MongoDB+%C2%B7+Azure;B.Tech+IT+%40+SIMATS+%C2%B7+Open+to+hackathons+%26+collaborations" />
-</a>
+<br/>
+
+<!-- Name: Space Grotesk, types once and stays -->
+<img alt="Vignesh S" src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=52&duration=2200&pause=60000&color=E0E7FF&center=true&vCenter=true&repeat=false&width=600&height=90&lines=Vignesh+S" />
+
+<!-- Role line: small, quiet, rotating -->
+<img alt="Role" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3200&pause=1800&color=A5B4FC&center=true&vCenter=true&width=720&height=30&lines=Full-Stack+Developer+%C2%B7+MERN+%26+Next.js;Cloud+on+Azure+%C2%B7+Shipping+real+apps+on+a+%E2%82%B90+budget;B.Tech+IT+%40+SIMATS+%C2%B7+Open+to+internships+%26+hackathons" />
 
 <br/><br/>
 
-<!-- Social links: uniform flat-square style, one accent colour -->
+<!-- Links: each <a><img></a> is on ONE line so no underline artifacts appear -->
 <p>
-  <a href="https://vigneshh.me">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-vigneshh.me-4f46e5?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0f172a" />
-  </a>
-  <a href="mailto:vigneshigt@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-Contact-4f46e5?style=flat-square&logo=gmail&logoColor=white&labelColor=0f172a" />
-  </a>
-  <a href="https://www.linkedin.com/in/vigneshs20/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-4f46e5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0f172a" />
-  </a>
-  <a href="https://github.com/Vixcy300">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Vixcy300-4f46e5?style=flat-square&logo=github&logoColor=white&labelColor=0f172a" />
-  </a>
-  <a href="https://x.com/teamig14">
-    <img alt="X" src="https://img.shields.io/badge/X-Follow-4f46e5?style=flat-square&logo=x&logoColor=white&labelColor=0f172a" />
-  </a>
-  <a href="https://www.instagram.com/axstonm?igsh=MXJ4YnZid3hzcDdtbw==">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-Follow-4f46e5?style=flat-square&logo=instagram&logoColor=white&labelColor=0f172a" />
-  </a>
+<a href="https://vigneshh.me"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-vigneshh.me-6366f1?style=flat-square&logo=googlechrome&logoColor=white&labelColor=1e293b" /></a>
+<a href="mailto:vigneshigt@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-6366f1?style=flat-square&logo=gmail&logoColor=white&labelColor=1e293b" /></a>
+<a href="https://www.linkedin.com/in/vigneshs20/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-6366f1?style=flat-square&logo=linkedin&logoColor=white&labelColor=1e293b" /></a>
+<a href="https://github.com/Vixcy300"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Vixcy300-6366f1?style=flat-square&logo=github&logoColor=white&labelColor=1e293b" /></a>
+<a href="https://x.com/teamig14"><img alt="X" src="https://img.shields.io/badge/X-Follow-6366f1?style=flat-square&logo=x&logoColor=white&labelColor=1e293b" /></a>
+<a href="https://www.instagram.com/axstonm?igsh=MXJ4YnZid3hzcDdtbw=="><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Follow-6366f1?style=flat-square&logo=instagram&logoColor=white&labelColor=1e293b" /></a>
 </p>
 
 <!-- Counters -->
 <p>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Vixcy300&label=Profile%20Views&color=4f46e5&style=flat-square" />
-  <img alt="Followers" src="https://img.shields.io/github/followers/Vixcy300?label=Followers&style=flat-square&color=4f46e5&labelColor=0f172a" />
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=Vixcy300&label=Profile%20Views&color=6366f1&style=flat-square&labelColor=1e293b" />
+<img alt="Followers" src="https://img.shields.io/github/followers/Vixcy300?label=Followers&style=flat-square&color=6366f1&labelColor=1e293b" />
 </p>
+
+<!-- Thin accent line (bottom) -->
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:d946ef,50:8b5cf6,100:6366f1&height=2&section=header" />
 
 </div>
 
