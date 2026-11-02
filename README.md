@@ -1,270 +1,161 @@
 <div align="center">
-  
-<!-- Animated Header with Sparkles -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=VIGNESH&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20|%20UI/UX%20Designer&descAlignY=55&descSize=16"/>
 
-<!-- Matrix Rain Effect Banner -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<!-- Banner -->
+<img width="100%" alt="Vignesh S banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:6d28d9&height=220&section=header&text=Vignesh%20S&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20MERN%20%C2%B7%20Cloud&descAlignY=60&descSize=18&descColor=c7d2fe" />
 
-<!-- Typing Animation - Multiple Lines -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=120&lines=%F0%9F%9A%80+Building+Premium+Digital+Experiences;%E2%9C%A8+Crafting+Code+with+Passion+%26+Precision;%F0%9F%8E%AF+Turning+Ideas+into+Reality" alt="Typing SVG" /></a>
+<!-- Rotating tagline (single line, cycles through each message) -->
+<a href="https://github.com/Vixcy300">
+  <img alt="Typing tagline" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=818CF8&center=true&vCenter=true&width=700&height=45&lines=Building+fast%2C+scalable+web+applications;Next.js+%C2%B7+React+19+%C2%B7+Node.js+%C2%B7+MongoDB+%C2%B7+Azure;B.Tech+IT+%40+SIMATS+%C2%B7+Open+to+hackathons+%26+collaborations" />
+</a>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<br/><br/>
 
-<!-- Animated Social Badges -->
+<!-- Social links: uniform flat-square style, one accent colour -->
 <p>
-<a href="mailto:vigneshigt@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/vigneshs20/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/Vixcy300"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.instagram.com/axstonm?igsh=MXJ4YnZid3hzcDdtbw=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://x.com/teamig14"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://vigneshh.me">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-vigneshh.me-4f46e5?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0f172a" />
+  </a>
+  <a href="mailto:vigneshigt@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Contact-4f46e5?style=flat-square&logo=gmail&logoColor=white&labelColor=0f172a" />
+  </a>
+  <a href="https://www.linkedin.com/in/vigneshs20/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-4f46e5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0f172a" />
+  </a>
+  <a href="https://github.com/Vixcy300">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Vixcy300-4f46e5?style=flat-square&logo=github&logoColor=white&labelColor=0f172a" />
+  </a>
+  <a href="https://x.com/teamig14">
+    <img alt="X" src="https://img.shields.io/badge/X-Follow-4f46e5?style=flat-square&logo=x&logoColor=white&labelColor=0f172a" />
+  </a>
+  <a href="https://www.instagram.com/axstonm?igsh=MXJ4YnZid3hzcDdtbw==">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-Follow-4f46e5?style=flat-square&logo=instagram&logoColor=white&labelColor=0f172a" />
+  </a>
 </p>
 
-<!-- Animated Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=Vixcy300&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/Vixcy300?label=Followers&style=for-the-badge&color=764ba2" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/Vixcy300?label=Stars&style=for-the-badge&color=f093fb" alt="Stars"/>
+<!-- Counters -->
+<p>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Vixcy300&label=Profile%20Views&color=4f46e5&style=flat-square" />
+  <img alt="Followers" src="https://img.shields.io/github/followers/Vixcy300?label=Followers&style=flat-square&color=4f46e5&labelColor=0f172a" />
+</p>
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+## 👨‍💻 About Me
 
 ```typescript
 const vignesh = {
-    pronouns: "he" | "him",
-    location: "Chennai, Tamil Nadu, India 🇮🇳",
-    education: "B.Tech @ SIMATS Engineering College",
-    languages: ["English", "Tamil"],
-    currentFocus: [
-        "MERN Stack Development",
-        "Next.js 16+ & React 19",
-        "Cloud Deployment on Azure"
-    ],
-    philosophy: "60fps animations & pixel-perfect design",
-    funFact: "I build production apps on ₹0 budget! 💸"
+  pronouns: "he/him",
+  location: "Chennai, Tamil Nadu, India 🇮🇳",
+  education: "B.Tech @ SIMATS Engineering College",
+  languages: ["English", "Tamil"],
+  currentFocus: [
+    "MERN Stack Development",
+    "Next.js 16+ & React 19",
+    "Cloud Deployment on Azure",
+  ],
+  philosophy: "60fps animations & pixel-perfect design",
+  funFact: "I build production apps on a ₹0 budget 💸",
 };
 ```
 
-<br/>
-
-- 🔭 Currently building **Ultra-Modern Developer Portfolio**
-- 🌱 Deep diving into **Next.js 16, React 19, Azure Cloud**
-- 👯 Looking to collaborate on **Open Source & Hackathons**
+- 🔭 Currently building an **ultra-modern developer portfolio**
+- 🌱 Deep diving into **Next.js 16, React 19, and Azure Cloud**
+- 👯 Looking to collaborate on **open source and hackathons**
 - 💬 Ask me about **Next.js, React, Node.js, MongoDB**
 - ⚡ Fun fact: **I turn coffee into code at 3 AM** ☕
 
-<br clear="both"/>
+---
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Arsenal
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### 🎨 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,nextjs,react,tailwind&theme=dark" />
-</p>
-<p>
-<img src="https://img.shields.io/badge/Next.js-16%2B-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-</p>
+**Frontend**
 
-### ⚙️ Backend & Database
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb&theme=dark" />
-</p>
+<img alt="Frontend stack" src="https://skillicons.dev/icons?i=html,css,js,nextjs,react,tailwind&theme=dark" />
 
-### 🛠️ Tools & Cloud
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,azure&theme=dark" />
-</p>
+**Backend & Database**
+
+<img alt="Backend stack" src="https://skillicons.dev/icons?i=nodejs,mongodb&theme=dark" />
+
+**Tools & Cloud**
+
+<img alt="Tools and cloud" src="https://skillicons.dev/icons?i=git,github,azure&theme=dark" />
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Featured Projects
+## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/Vixcy300/MatriXort-AI-Deep-Learning">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vixcy300&repo=MatriXort-AI-Deep-Learning&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2" />
-</a>
-<a href="https://github.com/Vixcy300/protothon-hackathon2025">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vixcy300&repo=protothon-hackathon2025&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-| 🎯 Project | 📝 Description | 🛠️ Tech Stack |
-|:----------:|:--------------|:--------------|
-| 🎨 **Developer Portfolio** | Ultra-modern portfolio with 3D elements & scroll animations | `Next.js` `GSAP` `Three.js` `Tailwind` |
-| 💰 **AI Finance App** | Cross-platform finance tracker with AI assistant | `Flutter` `Gemini AI` `Firebase` |
-| ♻️ **EcoSort AI** | Computer vision waste classification system | `Python` `ResNet-50` `TensorFlow` |
+| Project | Description | Tech Stack |
+|:--|:--|:--|
+| 🎨 **Developer Portfolio** | Ultra-modern portfolio with 3D elements and scroll animations | `Next.js` `GSAP` `Three.js` `Tailwind` |
+| 💰 **AI Finance App** | Cross-platform finance tracker with an AI assistant | `Flutter` `Gemini AI` `Firebase` |
+| ♻️ **[EcoSort AI](https://github.com/Vixcy300/MatriXort-AI-Deep-Learning)** | Computer-vision waste classification system | `Python` `ResNet-50` `TensorFlow` |
 | 🔐 **E2E Encrypted Chat** | Secure messaging with file transfer | `Next.js` `WebSocket` `AES-GCM` |
 | 🎓 **Student Portal** | Role-based academic management system | `Next.js` `Express` `MongoDB` |
 | 🏥 **Healthcare Portal** | Patient-doctor management platform | `Full-stack` `PostgreSQL` |
 | 🗺️ **Recycling Map** | Crowdsourced recycling locations | `React` `Firebase` `Mapbox` |
-| 📊 **BMI Analyzer** | Lifestyle analysis with AI chatbot | `Flask` `Pandas` `Gemini AI` |
+| 📊 **BMI Analyzer** | Lifestyle analysis with an AI chatbot | `Flask` `Pandas` `Gemini AI` |
+| 🏁 **[Protothon 2025](https://github.com/Vixcy300/protothon-hackathon2025)** | Hackathon project | See repo |
 
-</div>
+---
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
-  
-<!-- GitHub Stats Cards -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vixcy300&show_icons=true&count_private=true&hide_border=true&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&bg_color=0d1117&ring_color=667eea" alt="GitHub Stats" /> 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vixcy300&layout=compact&hide_border=true&title_color=667eea&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+
+<img width="49%" alt="Profile details" src="https://raw.githubusercontent.com/Vixcy300/Vixcy300/main/profile-summary-card-output/tokyonight/0-profile-details.svg" />
+<img width="49%" alt="GitHub stats" src="https://raw.githubusercontent.com/Vixcy300/Vixcy300/main/profile-summary-card-output/tokyonight/3-stats.svg" />
+
+<img width="49%" alt="Top languages by repository" src="https://raw.githubusercontent.com/Vixcy300/Vixcy300/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+<img width="49%" alt="Top languages by commit" src="https://raw.githubusercontent.com/Vixcy300/Vixcy300/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+
+<br/><br/>
+
+<!-- Streak card, restyled to match the indigo palette -->
+<img width="98%" alt="GitHub streak" src="https://github-readme-streak-stats-eight.vercel.app?user=Vixcy300&hide_border=true&background=0D1117&stroke=312E81&ring=6D28D9&fire=818CF8&currStreakNum=E0E7FF&sideNums=E0E7FF&currStreakLabel=818CF8&sideLabels=A5B4FC&dates=94A3B8" />
 
 </div>
 
-<br/>
-
-<div align="center">
-  
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=Vixcy300&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=f093fb&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=667eea&sideLabels=764ba2&dates=8b949e" alt="GitHub Streak"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-  
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vixcy300&custom_title=Vignesh's%20Contribution%20Graph&bg_color=0d1117&color=667eea&line=764ba2&point=f093fb&area_color=667eea&title_color=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
-
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-<img src="https://github-trophies.vercel.app/?username=Vixcy300&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies"/>
-
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 🎯 Current Focus
 
-<div align="center">
+| | |
+|:--|:--|
+| 📚 **Learning** | Next.js 16 · React 19 · Azure Cloud |
+| 🔨 **Building** | Ultra-modern portfolio with smooth 60fps animations |
+| 🧭 **Exploring** | MERN architecture · scalable deployments |
+| 🤝 **Open to** | Collaborations · hackathons · freelance work |
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  📚 LEARNING    →  Next.js 16 • React 19 • Azure Cloud           ║
-║  🔨 BUILDING    →  Ultra-Modern Portfolio with 60fps animations  ║
-║  🎯 EXPLORING   →  MERN Architecture • Scalable Deployments      ║
-║  🤝 OPEN TO     →  Collaborations • Hackathons • Freelance       ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+---
 
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📫 Let's Connect!
+## 📫 Let's Connect
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+<p>
+  <a href="mailto:vigneshigt@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-vigneshigt@gmail.com-4f46e5?style=flat-square&logo=gmail&logoColor=white&labelColor=0f172a" /></a>
+  <a href="https://www.linkedin.com/in/vigneshs20/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-4f46e5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0f172a" /></a>
+  <a href="https://vigneshh.me"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-vigneshh.me-4f46e5?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0f172a" /></a>
+</p>
 
-### 💌 I love connecting with fellow developers!
+<sub>Open to internships, hackathon teams, and open-source collaboration.</sub>
 
-<br/>
+<br/><br/>
 
-### 📧 Email: **vigneshigt@gmail.com**
-
-<details>
-<summary>📱 <b>🔐 Click to reveal phone number</b> (solve the puzzle!)</summary>
-<br/>
-<table>
-<tr>
-<td>
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/>
-</td>
-<td>
-<h3>🧩 Quick Math Challenge</h3>
-<p>What is <b>5 + 5</b>?</p>
-<br/>
-<p>If your answer is <b>10</b>, here's my number:</p>
-<code>📞 +91 9600700120</code>
-</td>
-</tr>
-</table>
-</details>
-
-<br/>
-
-<a href="mailto:vigneshigt@gmail.com">
-  <img src="https://img.shields.io/badge/💼_Hire_Me-667eea?style=for-the-badge"/>
-</a>
-<a href="mailto:vigneshigt@gmail.com">
-  <img src="https://img.shields.io/badge/🤝_Collaborate-764ba2?style=for-the-badge"/>
-</a>
-<a href="https://github.com/Vixcy300">
-  <img src="https://img.shields.io/badge/⭐_Follow_Me-f093fb?style=for-the-badge"/>
-</a>
-
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-### 💡 Dev Quote of the Day
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-
-<br/>
-
-### 🐍 Watch my contributions get eaten!
-
+<!-- Contribution snake (generated by the existing snake workflow) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vixcy300/Vixcy300/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vixcy300/Vixcy300/output/github-snake.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Vixcy300/Vixcy300/output/github-snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Vixcy300/Vixcy300/output/github-snake-dark.svg" />
 </picture>
 
 </div>
 
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=150&section=footer"/>
-
-<div align="center">
-  
-### ⭐ If you like my work, consider giving a star!
-
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70">
-
-**Thanks for visiting!** 😄
-
-<img src="https://img.shields.io/badge/Made%20with-❤️-ff69b4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Powered%20by-Coffee%20☕-brown?style=for-the-badge"/>
-
-<b>⭐ From <a href="https://github.com/Vixcy300">Vignesh</a> with 💜</b>
-
-</div>
+<!-- Footer wave matching the header -->
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:6d28d9&height=120&section=footer" />
